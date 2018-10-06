@@ -76,4 +76,5 @@ figcaption {
 .wrapper {
   width: 960 px;
   margin: 0 auto;
+  background: #eee;
 }
